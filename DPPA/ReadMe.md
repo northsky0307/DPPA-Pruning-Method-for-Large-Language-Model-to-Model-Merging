@@ -7,7 +7,7 @@ The code for our paper (TODO)
 - [Usage](#Usage)
   - [Requirements](#Requirements)
   - [Installation](#Installation)
-- [Document Catalogue](#Document Catalogue)
+- [Document](#Document)
 - [Acknowledgement](#Acknowledgement)
 
 ### Usage
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 pip install torch==2.1.0+cu121 --index-url https://download.pytorch.org/whl/cu121
 ```
 
-### Document Catalogue
+### Document
 
 ```
 DPPA 
